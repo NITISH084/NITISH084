@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitish kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 - 🔭 I’m currently working on [MOVIISH](https://github.com/NITISH084/MOVIISH-)
 
