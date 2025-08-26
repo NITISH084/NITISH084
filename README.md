@@ -1,22 +1,84 @@
-<h1 align="center">Hi 👋, I'm Nitish kumar</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<!-- Profile README for Nitish Kumar -->
 
-- 🔭 I’m currently working on [MOVIISH](https://github.com/NITISH084/MOVIISH-)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Nitish+Kumar;Fullstack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8E%AF;Open+Source+Contributor+%F0%9F%8C%90;Always+Learning+New+Things+%F0%9F%94%A5" />
+</h1>
 
-- 🌱 I’m currently learning **React , Nextjs**
+<h3 align="center">🚀 Passionate Developer | Problem Solver | Open Source Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/NITISH084](https://github.com/NITISH084)
-
-- 📫 How to reach me **imnitishkumar04@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nitish_084" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitish_084" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/nitish084" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/nitish084" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nitish084" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/nitish084" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/NITISH084?tab=followers"><img src="https://img.shields.io/github/followers/NITISH084?label=Followers&style=social" /></a>
+  <a href="https://komarev.com/ghpvc/?username=nitish084"><img src="https://komarev.com/ghpvc/?username=nitish084&label=Profile%20views&color=blue&style=flat" /></a>
+  <a href="https://twitter.com/nitish_084"><img src="https://img.shields.io/twitter/follow/nitish_084?style=social" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitish084&show_icons=true&locale=en&layout=compact" alt="nitish084" /></p>
+### 👨‍💻 About Me  
+- 🔭 Currently working on **[MOVIISH](https://github.com/NITISH084/MOVIISH-)** 🎬 (a movie discovery platform)  
+- 🌱 Exploring **React, Next.js, Tailwind, Node.js, MongoDB**  
+- 🏗 Contributing to **Oppia** → working with **Angular, TypeScript, Testing** 🌍  
+- 📑 Building **OCR + PDF Heading Extraction tools** with **Tesseract & PyMuPDF** (multilingual: Hindi, Japanese, English)  
+- 🤖 Learning **DFT, FFT, Dynamic Programming, Advanced Algorithms**  
+- 🏆 Active in **Competitive Programming** (Codeforces, CodeChef)  
+- 🏅 Hackathon Experience → **Adobe India Hackathon (Heading Extraction project)**  
+- 🎯 Goal: **Master Fullstack + Systems + Open Source contributions (GSoC, Hackathons, Research)**  
+- 📫 Reach me at: **imnitishkumar04@gmail.com**  
+
+---
+
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://twitter.com/nitish_084"><img src="https://img.icons8.com/color/48/twitter--v1.png"/></a>
+  <a href="https://www.codechef.com/users/nitish084"><img src="https://img.icons8.com/fluency/48/codechef.png"/></a>
+  <a href="https://codeforces.com/profile/nitish084"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png"/></a>
+  <a href="mailto:imnitishkumar04@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png"/></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,redux,nodejs,express,mongodb,firebase,tailwind,git,github,vscode,linux,docker,python&perline=7" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitish084&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitish084&layout=compact&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitish084&theme=radical" height="170"/>
+</p>
+
+---
+
+### 🏆 Achievements & Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nitish084&theme=radical&no-frame=false&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+### 🚀 Competitive Programming Profiles  
+- 💡 **Codeforces**: [nitish084](https://codeforces.com/profile/The_Tarnished)  
+- 🍴 **CodeChef**: [nitish084](https://www.codechef.com/users/nitish084)  
+
+---
+
+### 📈 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitish084&theme=react-dark&bg_color=20232a&hide_border=true" />
+</p>
+
+---
+
+### 📌 Featured Projects  
+- 🎬 **[MOVIISH](https://github.com/NITISH084/MOVIISH-)** → Movie discovery platform built with React, Node, MongoDB  
+- 📑 **Multilingual OCR Heading Extractor** → Supports Hindi, Japanese, English using Tesseract + PyMuPDF  
+- 🏗 **Oppia Contributions** → Angular, TypeScript, Unit Testing  
+
+---
