@@ -55,13 +55,6 @@
 
 ---
 
-### 🏆 Achievements & Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitish084&theme=radical&no-frame=false&no-bg=true&margin-w=15" />
-</p>
-
----
-
 ### 🚀 Competitive Programming Profiles  
 - 💡 **Codeforces**: [nitish084](https://codeforces.com/profile/The_Tarnished)  
 - 🍴 **CodeChef**: [nitish084](https://www.codechef.com/users/nitish084)  
