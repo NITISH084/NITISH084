@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/NITISH084?tab=followers"><img src="https://img.shields.io/github/followers/NITISH084?label=Followers&style=social" /></a>
   <a href="https://komarev.com/ghpvc/?username=nitish084"><img src="https://komarev.com/ghpvc/?username=nitish084&label=Profile%20views&color=blue&style=flat" /></a>
-  <a href="https://twitter.com/nitish_084"><img src="https://img.shields.io/twitter/follow/nitish_084?style=social" /></a>
+  <a href="https://twitter.com/nitish_084"><img src="https://img.shields.io/twitter/follow/nitis9999?style=social" /></a>
 </p>
 
 ---
@@ -18,8 +18,7 @@
 - 🔭 Currently working on **[MOVIISH](https://github.com/NITISH084/MOVIISH-)** 🎬 (a movie discovery platform)  
 - 🌱 Exploring **React, Next.js, Tailwind, Node.js, MongoDB**  
 - 🏗 Contributing to **Oppia** → working with **Angular, TypeScript, Testing** 🌍  
-- 📑 Building **OCR + PDF Heading Extraction tools** with **Tesseract & PyMuPDF** (multilingual: Hindi, Japanese, English)  
-- 🤖 Learning **DFT, FFT, Dynamic Programming, Advanced Algorithms**  
+- 📑 Building **OCR + PDF Heading Extraction tools** with **Tesseract & PyMuPDF** (multilingual: Hindi, Japanese, English)   
 - 🏆 Active in **Competitive Programming** (Codeforces, CodeChef)  
 - 🏅 Hackathon Experience → **Adobe India Hackathon (Heading Extraction project)**  
 - 🎯 Goal: **Master Fullstack + Systems + Open Source contributions (GSoC, Hackathons, Research)**  
