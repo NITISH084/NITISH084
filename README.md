@@ -15,7 +15,6 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 Currently working on **[MOVIISH](https://github.com/NITISH084/MOVIISH-)** 🎬 (a movie discovery platform)  
 - 🌱 Exploring **React, Next.js, Tailwind, Node.js, MongoDB**  
 - 🏗 Contributing to **Oppia** → working with **Angular, TypeScript, Testing** 🌍  
 - 📑 Building **OCR + PDF Heading Extraction tools** with **Tesseract & PyMuPDF** (multilingual: Hindi, Japanese, English)   
