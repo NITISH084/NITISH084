@@ -15,9 +15,8 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 Exploring **React, Next.js, Tailwind, Node.js, MongoDB**  
+- 🌱 Exploring **React, Next.js, Tailwind, Node.js, MongoDB , Angular**  
 - 🏗 Contributing to **Oppia** → working with **Angular, TypeScript, Testing** 🌍  
-- 📑 Building **OCR + PDF Heading Extraction tools** with **Tesseract & PyMuPDF** (multilingual: Hindi, Japanese, English)   
 - 🏆 Active in **Competitive Programming** (Codeforces, CodeChef)  
 - 🏅 Hackathon Experience → **Adobe India Hackathon (Heading Extraction project)**  
 - 🎯 Goal: **Master Fullstack + Systems + Open Source contributions (GSoC, Hackathons, Research)**  
@@ -69,7 +68,6 @@
 
 ### 📌 Featured Projects  
 - 🎬 **[MOVIISH](https://github.com/NITISH084/MOVIISH-)** → Movie discovery platform built with React, Node, MongoDB  
-- 📑 **Multilingual OCR Heading Extractor** → Supports Hindi, Japanese, English using Tesseract + PyMuPDF  
 - 🏗 **Oppia Contributions** → Angular, TypeScript, Unit Testing  
 
 ---
