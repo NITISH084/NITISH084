@@ -65,7 +65,8 @@
 </p>
 
 ---
-
+[![An image of @nitish084's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitish084)](https://holopin.io/@nitish084)
+---
 ### 📌 Featured Projects  
 - 🎬 **[MOVIISH](https://github.com/NITISH084/MOVIISH-)** → Movie discovery platform built with React, Node, MongoDB  
 - 🏗 **Oppia Contributions** → Angular, TypeScript, Unit Testing  
