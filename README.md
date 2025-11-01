@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/NITISH084?tab=followers"><img src="https://img.shields.io/github/followers/NITISH084?label=Followers&style=social" /></a>
   <a href="https://komarev.com/ghpvc/?username=nitish084"><img src="https://komarev.com/ghpvc/?username=nitish084&label=Profile%20views&color=blue&style=flat" /></a>
-  <a href="https://twitter.com/nitish_084"><img src="https://img.shields.io/twitter/follow/nitis9999?style=social" /></a>
+  <a href="https://x.com/nitis9999"><img src="https://img.shields.io/twitter/follow/nitis9999?style=social" /></a>
 </p>
 
 ---
