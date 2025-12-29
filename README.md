@@ -12,14 +12,13 @@
   <a href="https://x.com/nitis9999"><img src="https://img.shields.io/twitter/follow/nitis9999?style=social" /></a>
 </p>
 
----
-
 ###  About Me  
 -  Exploring **React, Next.js, Tailwind, Node.js, MongoDB , Angular**  
 -  Contributing to **Oppia** → working with **Angular, TypeScript, Testing** 🌍  
 -  Active in **Competitive Programming** (Codeforces, CodeChef)  
 -  Hackathon Experience → **Adobe India Hackathon (Heading Extraction project)**  
--  Goal: **Master Fullstack + Systems + Open Source contributions (GSoC, Hackathons, Research)**  
+-  Currently working on **TDD – Remote Configuration of Android Feature Flags & Platform Parameters via Web**  
+   ([TDD Link](https://docs.google.com/document/d/1OyT2jfL-2K3gZ3weWLQhRtjxqfwkfcADM3I1xAObFas/edit?tab=t.0)) 
 -  Reach me at: **imnitishkumar04@gmail.com**  
 
 
