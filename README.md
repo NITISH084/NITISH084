@@ -13,8 +13,10 @@
 </p>
 
 ###  About Me  
+- **GSoC' 2026 @Oppia Foundation** (Project Link: [Web User Feedback](https://summerofcode.withgoogle.com/programs/2026/projects/DLicszJv))
+   Proposal Link: [Web User Feedback Proposal](https://docs.google.com/document/d/1hKv4D84m52iq9mFOxbyABXKNjbx-J91ywwq4FsihJ60/edit?tab=t.0#heading=h.vxqaj7i9qj8a)
 -  Exploring **React, Next.js, Tailwind, Node.js, MongoDB , Angular**  
--  Contributing to **Oppia** → working with **Angular, TypeScript, Testing** 🌍  
+-  Contributing to **Oppia** → working with **Angular, TypeScript, Testing** 
 -  Active in **Competitive Programming** (Codeforces, CodeChef)  
 -  Hackathon Experience → **Adobe India Hackathon (Heading Extraction project)**  
 -  Currently working on **TDD – Remote Configuration of Android Feature Flags & Platform Parameters via Web**  
