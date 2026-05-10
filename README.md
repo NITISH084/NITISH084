@@ -33,7 +33,7 @@ Prepared a technical design document for remotely configuring Android feature fl
 
 # Contributions
 
-I have been an active open source contributor to the Oppia Foundation for the past 3+ years. During this time, I have developed strong experience in software engineering, technical design, project management, frontend workflows, backend systems, migrations, testing infrastructure, and scalable educational platform development. I have also contributed extensively to code reviews, contributor mentorship, and collaborative engineering efforts across the CORE team.
+I have been an active open source contributor to the Oppia Foundation for the past 1+ years. During this time, I have developed strong experience in software engineering, technical design, project management, frontend workflows, backend systems, migrations, testing infrastructure, and scalable educational platform development. I have also contributed extensively to code reviews, contributor mentorship, and collaborative engineering efforts across the CORE team.
 
 Currently serving as:
 
