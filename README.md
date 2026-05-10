@@ -18,13 +18,13 @@
 
 # Open Source Projects
 
-## Web User Feedback System
+## Web User Feedback
 
 Designed and developing a unified feedback infrastructure for Oppia that enables learners and users to submit both platform-level and lesson-specific feedback from any user-facing page. The system supports optional screenshots and lightweight session logs to improve issue reporting and debugging workflows. Feedback is stored within a scalable thread-based architecture and can be reviewed through dedicated admin tooling and moderation workflows. The existing creator feedback tab and feedback-updates page are also being redesigned to integrate with the new system and provide a more structured management experience.</br>
 [Technical design document](https://docs.google.com/document/d/1hKv4D84m52iq9mFOxbyABXKNjbx-J91ywwq4FsihJ60/edit?tab=t.0#heading=h.vxqaj7i9qj8a)
  | [Project Link](https://summerofcode.withgoogle.com/programs/2026/projects/DLicszJv)
 
-## Android Remote Configuration System
+## Remote Configuration of Android Feature Flags & Platform Parameters via Web
 
 Prepared a technical design document for remotely configuring Android feature flags and platform parameters through Oppia Web Admin tools. The system introduces Android-specific storage models, evaluation handlers, rollout strategies, and admin dashboards to safely manage feature availability and runtime configuration without requiring frequent Android app releases. The design supports staged rollouts, app deprecation workflows, flavour-based configuration evaluation, and long-term operational stability for Oppia Android global availability. </br>
 [Technical Design Document](https://docs.google.com/document/d/1OyT2jfL-2K3gZ3weWLQhRtjxqfwkfcADM3I1xAObFas/edit?tab=t.0)
