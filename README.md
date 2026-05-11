@@ -12,7 +12,7 @@
   <a href="https://x.com/nitis9999"><img src="https://img.shields.io/twitter/follow/nitis9999?style=social" /></a>
 </p>
 
-📫 Reach me at: **[imnitishkumar04@gmail.com](mailto:imnitishkumar04@gmail.com)** | 📝 GSoC journals: **https://medium.com/@imnitishkumar04** | Resume: [Drive Link](https://docs.google.com/document/d/1MZcgJG2zZb2AYkBeO_WP4wgdScJgavLhiSd9SQEGtmY/edit?tab=t.0)
+📫 Reach me at: **[imnitishkumar04@gmail.com](mailto:imnitishkumar04@gmail.com)** | GSoC journals: **https://medium.com/@imnitishkumar04** | Resume: [Drive Link](https://docs.google.com/document/d/1MZcgJG2zZb2AYkBeO_WP4wgdScJgavLhiSd9SQEGtmY/edit?tab=t.0)
 
 ---
 
