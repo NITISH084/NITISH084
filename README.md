@@ -22,7 +22,7 @@ Reach me at: **[imnitishkumar04@gmail.com](mailto:imnitishkumar04@gmail.com)** |
 
 Designed and developing a unified feedback infrastructure for Oppia that enables learners and users to submit both platform-level and lesson-specific feedback from any user-facing page. The system supports optional screenshots and lightweight session logs to improve issue reporting and debugging workflows. Feedback is stored within a scalable thread-based architecture and can be reviewed through dedicated admin tooling and moderation workflows. The existing creator feedback tab and feedback-updates page are also being redesigned to integrate with the new system and provide a more structured management experience.</br>
 [Technical design document](https://docs.google.com/document/d/1hKv4D84m52iq9mFOxbyABXKNjbx-J91ywwq4FsihJ60/edit?tab=t.0#heading=h.vxqaj7i9qj8a)
- | [Project Link](https://summerofcode.withgoogle.com/programs/2026/projects/DLicszJv)
+ | [Project Link](https://summerofcode.withgoogle.com/programs/2026/projects/DLicszJv) | [Issue and Milestone Table Link](https://github.com/oppia/oppia/issues/24716)
 
 <h3>Remote Configuration of Android Feature Flags & Platform Parameters via Web</h3>
 
