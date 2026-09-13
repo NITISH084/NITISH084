@@ -1,5 +1,4 @@
 <!-- Profile README for Nitish Kumar -->
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Nitish+Kumar;Fullstack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8E%AF;Open+Source+Contributor+%F0%9F%8C%90;Always+Learning+New+Things+%F0%9F%94%A5" />
 </h1>
@@ -27,3 +26,12 @@ Designed and developing a unified feedback infrastructure for Oppia that enables
 
 Prepared a technical design document for remotely configuring Android feature flags and platform parameters through Oppia Web Admin tools. The system introduces Android-specific storage models, evaluation handlers, rollout strategies, and admin dashboards to safely manage feature availability and runtime configuration without requiring frequent Android app releases. The design supports staged rollouts, app deprecation workflows, flavour-based configuration evaluation, and long-term operational stability for Oppia Android global availability. </br>
 [Technical Design Document](https://docs.google.com/document/d/1OyT2jfL-2K3gZ3weWLQhRtjxqfwkfcADM3I1xAObFas/edit?tab=t.0)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NITISH084&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=NITISH084&theme=tokyonight)
+
+<div align="center">
+  
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NITISH084&layout=compact&theme=tokyonight)
+
+</div>
