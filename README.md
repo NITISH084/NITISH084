@@ -26,12 +26,8 @@ Designed and developing a unified feedback infrastructure for Oppia that enables
 
 Prepared a technical design document for remotely configuring Android feature flags and platform parameters through Oppia Web Admin tools. The system introduces Android-specific storage models, evaluation handlers, rollout strategies, and admin dashboards to safely manage feature availability and runtime configuration without requiring frequent Android app releases. The design supports staged rollouts, app deprecation workflows, flavour-based configuration evaluation, and long-term operational stability for Oppia Android global availability. </br>
 [Technical Design Document](https://docs.google.com/document/d/1OyT2jfL-2K3gZ3weWLQhRtjxqfwkfcADM3I1xAObFas/edit?tab=t.0)
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NITISH084&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=NITISH084&theme=tokyonight)
-
-<div align="center">
+<div align = center>
   
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NITISH084&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NITISH084&show_icons=true&theme=tokyonight)
 
 </div>
