@@ -26,8 +26,12 @@ Designed and developing a unified feedback infrastructure for Oppia that enables
 
 Prepared a technical design document for remotely configuring Android feature flags and platform parameters through Oppia Web Admin tools. The system introduces Android-specific storage models, evaluation handlers, rollout strategies, and admin dashboards to safely manage feature availability and runtime configuration without requiring frequent Android app releases. The design supports staged rollouts, app deprecation workflows, flavour-based configuration evaluation, and long-term operational stability for Oppia Android global availability. </br>
 [Technical Design Document](https://docs.google.com/document/d/1OyT2jfL-2K3gZ3weWLQhRtjxqfwkfcADM3I1xAObFas/edit?tab=t.0)
-<div align = center>
-  
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NITISH084&show_icons=true&theme=tokyonight)
 
-</div>
+<h3> Deployr — Self-Hosted Deployment Platform</h3>
+
+Designed and developed a Vercel-inspired deployment platform that transforms Git repositories into live websites with unique HTTPS deployment URLs. Built an asynchronous deployment pipeline using Node.js, TypeScript, Express, Redis, Docker, and Cloudflare R2. The platform handles repository cloning, source staging, queue-based build processing, containerized project builds, static artifact publishing, and wildcard subdomain routing through Nginx. Implemented temporary source cleanup after successful deployments while retaining build artifacts in object storage.
+
+[GitHub Repository](https://github.com/NITISH084/Deploy) | [Live Platform](deployr.run.place)
+
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NITISH084&show_icons=true&theme=tokyonight)
