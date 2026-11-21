@@ -31,7 +31,7 @@ Prepared a technical design document for remotely configuring Android feature fl
 
 Designed and developed a Vercel-inspired deployment platform that transforms Git repositories into live websites with unique HTTPS deployment URLs. Built an asynchronous deployment pipeline using Node.js, TypeScript, Express, Redis, Docker, and Cloudflare R2. The platform handles repository cloning, source staging, queue-based build processing, containerized project builds, static artifact publishing, and wildcard subdomain routing through Nginx. Implemented temporary source cleanup after successful deployments while retaining build artifacts in object storage.
 
-[GitHub Repository](https://github.com/NITISH084/Deploy) | [Live Platform](deployr.run.place)
+[GitHub Repository](https://github.com/NITISH084/Deployr) | [Live Platform](deployr.run.place)
 
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NITISH084&show_icons=true&theme=tokyonight)
