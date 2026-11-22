@@ -29,7 +29,7 @@ Prepared a technical design document for remotely configuring Android feature fl
 
 <h3> Deployr — Self-Hosted Deployment Platform</h3>
 
-Designed and developed a Vercel-inspired deployment platform that transforms Git repositories into live websites with unique HTTPS deployment URLs. Built an asynchronous deployment pipeline using Node.js, TypeScript, Express, Redis, Docker, and Cloudflare R2. The platform handles repository cloning, source staging, queue-based build processing, containerized project builds, static artifact publishing, and wildcard subdomain routing through Nginx. Implemented temporary source cleanup after successful deployments while retaining build artifacts in object storage.
+Architected and developed Deployr, a self-hosted deployment platform that automates Git repository ingestion, asynchronous CI/CD workflows, and production builds using isolated Docker containers. Implemented a Redis-backed build pipeline with framework-aware build processing and integrated Cloudflare R2 for source management and production artifact storage. Deployed and managed the platform on an Oracle Cloud Infrastructure VM, configuring Nginx reverse proxy, wildcard DNS, and TLS certificates to serve individual deployments through automatically provisioned HTTPS subdomains.
 
 [GitHub Repository](https://github.com/NITISH084/Deployr) | [Live Platform](deployr.run.place)
 
