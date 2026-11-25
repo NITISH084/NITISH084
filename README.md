@@ -33,5 +33,10 @@ Architected and developed Deployr, a self-hosted deployment platform that automa
 
 [GitHub Repository](https://github.com/NITISH084/Deployr) | [Live Platform](deployr.run.place)
 
+<h2></h2>
+
+I've also recently been invited to join the GitHub Maintainer Advisory Network, invitation-only group formed by GitHub to connect open-source project maintainers. It serves as a private channel or feedback loop where active open-source maintainers can share insights, discuss pain points, preview upcoming GitHub features, and provide direct input on the tools and workflows that impact open-source development.
+
+<h2></h2>
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NITISH084&show_icons=true&theme=tokyonight)
